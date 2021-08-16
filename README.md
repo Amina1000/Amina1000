@@ -1,6 +1,5 @@
 ### Hi there 👋, my name is Amina
 #### I am Android developer
-![I am Android developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
 I used to 1s developer, and i have quit my job as a technical architect in order to use my free time for study.:-0 Now I'm studying at GigBrains school at the faculty "Android developer". I find it very interesting. For several months I have created a few java and kotlin projects. In addition, I am completing a course on java development. In the near future to start an internship in a new profession :-). I hope my little adventure will turn into my favorite profession. Have a nice day, everyone!
 
