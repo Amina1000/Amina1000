@@ -3,6 +3,9 @@
 
 I used to 1s developer, and i have quit my job as a technical architect in order to use my free time for study.:-0 Now I'm studying at GigBrains school at the faculty "Android developer". I find it very interesting. For several months I have created a few java and kotlin projects. In addition, I am completing a course on java development. I am going to start an internship in the near future :-). I hope my little adventure will turn into my favorite profession. Have a nice day, everyone!
 
+#### Ссылки на проекты в Google play:
+[![movie collection](https://github.com/Amina1000/Movie/blob/lesson12/baner1.png)](https://play.google.com/store/apps/details?id=com.cocos.ammymovie)
+
 Skills: Java / Kotlin / Android / CSS
 
 - 🔭 I’m currently working on https://sigma-it.ru/ 
