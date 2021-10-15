@@ -7,6 +7,7 @@ I used to 1s developer, and i have quit my job as a technical architect in order
 | Словарь-переводчик | Коллекция фильмов|
 |:--------------------------------:|:--------------------------------:|
 |[![dictionary kiss](https://github.com/Amina1000/DictionaryKiss/blob/release/baner_dictionary_kiss.png)](https://play.google.com/store/apps/details?id=com.cocos.develop.dictionarykiss)|[![movie collection](https://github.com/Amina1000/Movie/blob/lesson12/baner1.png)](https://play.google.com/store/apps/details?id=com.cocos.ammymovie)|
+|[github repository "DictionaryKiss"](https://github.com/Amina1000/DictionaryKiss)|[github repository "Movie"](https://github.com/Amina1000/Movie)|
 
 Skills: Java / Kotlin / Android / CSS
 
